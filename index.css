@@ -1,0 +1,336 @@
+.box1{
+    background-color: rgb(0, 0, 48);
+    color: aliceblue;
+    /* min-height: 1%; */
+}
+.mn{
+    background-color: rgb(0, 0, 48);
+}
+.no{
+    padding-left: 100px;
+}
+
+.navbar{
+    background-color: rgb(0, 0, 48);
+}
+.nav-link{
+    color: white;
+}
+
+.box14{
+text-decoration: none;
+padding: 10px;
+font-size: x-large;
+color: aliceblue;
+}
+.box11{
+     background-color:  rgb(0, 0, 48);
+font-size: x-large;
+    padding-top: 10px;
+    margin: 25px;
+    text-align:start; 
+}
+.box15{
+    font-size: larger;
+    padding-top: 35px;
+    /* padding-left: 50px; */
+}
+
+.box10{
+    padding-top:25px;
+}
+
+.box15{
+    /* text-align: end; */
+    display: flex;
+    /* align-items: end; */
+    justify-content: center;
+}
+
+
+
+/* box22222 */
+/* box22222 */
+
+.novv{
+    color:rgb(0, 0, 48) ;
+}
+.novv1{
+    border-style: initial;
+    border-color: aliceblue;
+    border-width: 50px;
+}
+
+.box2{
+    background-color: rgb(0, 0, 48);
+    color: rgb(141, 246, 141);
+    min-height: 10%;
+    /* position: relative; */
+}
+.box21{
+    padding-right: 50px;
+}
+
+.box23{
+    background-color: rgb(0, 0, 48);
+color: rgb(141, 246, 141);
+text-align:center;
+     
+}
+.box22{
+   font-weight: bold;
+}
+.box24{
+ background-color:rgb(0, 0, 48);
+}
+
+.box25{
+    text-align: start;
+    font-weight: bold;
+}
+
+.box16{
+    width: 300px;
+}
+
+
+
+/* box33333 */
+/* box33333 */
+.box3{
+    position: relative;
+   /* background-color: */
+    /* background-color: rgb(0, 0, 48); */
+    background-image: url(future-visions-business-technology-concept\ \(1\).jpg);
+    background-size: cover;
+    height: 650px;
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
+    text-align: center;
+}
+.nova12{
+    border-style: initial;
+    border-radius: 50px;
+    border-color: aliceblue;
+    width: 15%;
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+
+
+.box31{
+    position: relative;
+    /* min-height: 50%; */
+
+}
+.box32{
+    position: absolute;
+    /* top:28%; */
+    left: 28%;
+    width: 40%;
+    top: 0;
+    
+}
+.box33{
+    height: 100vh;
+}
+
+
+
+
+
+/* box55555 */
+/* box55555 */
+.box5{
+    background-color: rgb(0, 0, 48);
+   min-height:85vh ;
+   padding-top: 50px;
+   text-align: center;
+   color: white;
+
+}
+.box59{
+    text-align: start;
+}
+.box2{
+    margin-bottom: 20x;
+}
+.box54{
+    /* margin-bottom: 20x; */
+    font-size: 30px;
+    font-weight: bolder;
+    padding-left: 120px;
+}
+.box53{
+    /* margin-bottom: 20x; */
+  height: 50%;
+}
+.box55{
+    /* width: 50px; */
+    height:5vh;
+    border-radius: 10px;
+    background-color:  rgb(141, 246, 141);
+    /* font-size: large; */
+    font-weight: bolder;
+  
+}
+.box56{
+    padding-top: 25px;
+    padding-left: 120px;
+    
+}
+.box59{
+    padding-left: 100px;
+}
+
+
+
+
+
+
+/* .box444444 */
+
+.box4{
+    background-color:rgb(141, 246, 141) ;
+    /* min-height: 100vh; */
+    padding-top: 100px;
+    
+}
+
+.box41{
+    color: rgb(0, 0, 48);
+    font-size: x-large;
+/* text-align: start; */
+   padding-left: 30px;
+}
+.box43{
+    /* color: rgb(0, 0, 48);font-size: x-large; */
+ /* font-size:250% ;  */
+ font-weight: bold;
+ text-align: center;
+}
+.box490{
+    text-align: center;
+}
+
+.box42{
+    margin-top: 50px;
+    padding-top: 50px;
+    
+text-align: center;
+}
+.box44{
+    border-style: solid;
+border-width: 0px 3px 0px 0px;
+
+}
+.box45{
+     font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box46{
+    padding-left: 42%;
+    margin-bottom: 50px;
+}
+.box47{
+    min-height: 50px;
+    min-width: 25%;
+    border-radius: 50px;
+    font-weight: bolder;
+    background-color:  rgb(0, 0, 48);
+    color: rgb(141, 246, 141);
+    /* transition: all 1s; */
+}
+
+.box47:hover{
+    background-color: rgb(141, 246, 141);
+    color:rgb(0, 0, 48) ;
+}
+
+             
+
+
+
+        /* contact */
+        .box9{
+            padding-top: 50px;
+            
+        }
+        .box99{
+             background-color:  rgb(0, 0, 48);
+             padding-top: 50px;
+        }
+        .box992{
+            margin-bottom: 10px;
+        }
+        .box991{
+            color: white;
+        }
+        .form91{
+            text-align: center;
+        }
+        
+        .box93{
+            text-align: center;
+            background-color:  rgb(0, 0, 48);
+        }
+        .box993{
+            float: left;
+            padding-top: 21px;
+            width: 50%;
+            background-color:  rgb(0, 0, 48);
+        }
+        .box992{
+            width: 100%;
+            padding-left: 5px;
+            gap: 10px;
+             background-color:  rgb(0, 0, 48);
+        }
+
+        .co1{
+            padding-top: 50px;
+        }
+        .f1{
+            padding: 5px;
+            margin: 10px;
+            /* border-radius: 50px; */
+        }
+        .f2{
+            width: 95.5%;
+            height: 150px;
+        }
+        .f3{
+            width: 46%;
+        }
+        .f6{
+            /* padding-left: 25%; */
+            margin-left: 250px;
+            width: 25%;
+            height: 50px;
+            border-radius: 50px;
+            font-weight: bolder;
+            font-size: x-large;
+        }
+
+        /* last */
+        .f5{
+            border-style: solid;
+            border-color: black;
+            border-width: 1px;
+            margin: 35px;
+            height: 70px;
+            text-align: start;
+            width: 100%;
+            padding-top: 10px;
+            padding-left: 10px;
+            border-radius: 50px;
+            background-color: white;
+
+        }
+        .box993{
+            margin-left: 150px;
+        }
+        .box992{
+            /* padding-left: 50px; */
+        }
